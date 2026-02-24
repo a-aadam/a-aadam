@@ -39,9 +39,10 @@ I also design hands-on labs and structured detection content for platforms like 
 ### SIEM | XDR | SOAR
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />&nbsp
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" height="45"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 </p>
 
@@ -61,9 +62,8 @@ Microsoft Sentinel • Splunk • Chronicle • Wazuh • Trend Micro
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SC--200-Microsoft%20Security-blue?style=for-the-badge&logo=microsoft"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />&nbsp
-  <img src="https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-darkblue?style=for-the-badge"/>&nbsp
+  <img src="https://img.shields.io/badge/SC--200-Microsoft%20Security-blue?style=for-the-badge&logo=microsoft"/>
+  <img src="https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-darkblue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RCCE1-Certificied%20CyberSecurity%20Engineer-red?style=for-the-badge"/>
 </p>
 
