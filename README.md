@@ -1,15 +1,14 @@
 <!-- Professional Header -->
-<h1 align="center">Alex here, SOC Engineer</h1>
+<h1 align="center">SOC Engineer</h1>
 
 <p align="center">
 Threat Detection • Incident Response • SIEM Engineering • SOC Operations
 </p>
 
-<p align="center">
+<!-- <p align="center">
 Building a modern Cyber Security Service Provider focused on Detection Engineering and Managed Security.
 </p>
-
----
+-->
 
 ## 🧭 About Me
 
@@ -24,7 +23,6 @@ Currently building my own **cyber security service provider** focused on deliver
 
 I also design hands-on labs and structured detection content for platforms like TryHackMe and LetsDefend.
 
----
 
 ## 🛡 Core Competencies
 
@@ -35,7 +33,6 @@ I also design hands-on labs and structured detection content for platforms like 
 - SOC Playbook Development  
 - Security Automation & Workflow Optimization  
 
----
 
 ## ⚙️ Technical Stack
 
@@ -52,7 +49,6 @@ I also design hands-on labs and structured detection content for platforms like 
 Microsoft Sentinel • Splunk • Chronicle • Wazuh • Trend Micro
 </p>
 
----
 
 ### Endpoint & Network Security
 
@@ -61,13 +57,13 @@ Microsoft Sentinel • Splunk • Chronicle • Wazuh • Trend Micro
 - Nmap  
 - OpenVAS  
 
----
 
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SC--200-Microsoft%20Security-blue?style=for-the-badge&logo=microsoft"/>
-  <img src="https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-darkblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SC--200-Microsoft%20Security-blue?style=for-the-badge&logo=microsoft"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />&nbsp
+  <img src="https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-darkblue?style=for-the-badge"/>&nbsp
   <img src="https://img.shields.io/badge/RCCE1-Certificied%20CyberSecurity%20Engineer-red?style=for-the-badge"/>
 </p>
 
@@ -75,7 +71,6 @@ Microsoft Sentinel • Splunk • Chronicle • Wazuh • Trend Micro
 - BTL1 (Blue Team Level 1)  
 - RCCE1  
 
----
 
 ## 🚀 Current Focus
 
