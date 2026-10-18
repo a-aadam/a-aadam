@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Security Engineer</b> · <b>4+ years in 24/7 SOCs</b> · <b>60+ clients protected</b> · <b>Mauritius 🇲🇺</b> · <b>English &amp; French</b>
+  <b>Security Engineer</b> · <b>5 years in 24/7 SOCs</b> · <b>100+ clients protected</b> · <b>English &amp; French &amp; Portuguese(Brazilian)</b>
 </p>
 
 <p align="center">
