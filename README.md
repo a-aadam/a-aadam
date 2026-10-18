@@ -56,7 +56,7 @@ I work across the whole detection lifecycle: I tune SIEM rules to cut noise, inv
 
 | Project | Description | Status |
 |---|---|---|
-| 🤖 **[ISO/IEC 42001 Implementation Template](https://github.com/a-aadam/iso42001)** | A ready-to-use AI Management System (AIMS) toolkit: policies, risk & impact assessment templates, a Statement of Applicability, and control mapping. | 🚧 In progress |
+| 🤖 **[ISO/IEC 42001 Implementation Template](https://github.com/a-aadam/iso42001)** | A ready-to-use AI Management System (AIMS) initiation toolkit: policies, risk & impact assessment templates, a Statement of Applicability, and control mapping. | ✅ Active |
 | 🧪 **[AI Forensics Write-up](https://github.com/a-aadam/ai-forensics)** | Investigating AI systems and AI-assisted attacks: artefacts, logs, model and prompt evidence, and a methodology. | 🚧 In progress |
 | 🛸 **[Drone Forensics Write-up](https://github.com/a-aadam/drone-forensics)** | Pulling flight logs, telemetry and media from UAVs and the apps that control them, and rebuilding a timeline. Ties in with my aviation-security studies (IATA). | 🚧 In progress |
 | 💾 **[USB Forensics Write-up](https://github.com/a-aadam/usb-forensics)** | Tracing USB device history on Windows (registry, event logs, setupapi) to answer *who plugged in what, and when*. | 🚧 In progress |
